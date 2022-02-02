@@ -1,4 +1,6 @@
-<h4>Banco Digital Orientado a Objetos em Java</h4>
+<h2>Banco Digital Orientado a Objetos em Java</h2>
+
+***
 
 O banco tem dois tipos de conta(corrente e poupança).
 
